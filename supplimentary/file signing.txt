@@ -1,0 +1,7 @@
+The key file for the play store is located at:
+U:\Users\chasb\OneDrive\Documents\AndroidStudioProjects
+
+and is called CEBess keystore.
+The Key is ancient war
+
+the password for both are: wM82g57cht5FwS5vjjxs

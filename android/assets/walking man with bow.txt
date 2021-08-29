@@ -1,0 +1,103 @@
+walking man with bow.png
+size: 90, 2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walking man0
+  rotate: false
+  xy: 0, 0
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man1
+  rotate: false
+  xy: 0, 145
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man2
+  rotate: false
+  xy: 0, 290
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man3
+  rotate: false
+  xy: 0, 435
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man4
+  rotate: false
+  xy: 0, 580
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man5
+  rotate: false
+  xy: 0, 725
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man6
+  rotate: false
+  xy: 0, 870
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man7
+  rotate: false
+  xy: 0, 1015
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man8
+  rotate: false
+  xy: 0, 1160
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man9
+  rotate: false
+  xy: 0, 1305
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man10
+  rotate: false
+  xy: 0, 1450
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man11
+  rotate: false
+  xy: 0, 1595
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man12
+  rotate: false
+  xy: 0, 1740
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+walking man13
+  rotate: false
+  xy: 0, 1885
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
